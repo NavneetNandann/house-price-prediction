@@ -107,7 +107,7 @@ Predict Canada's per capita income in the year **2020** using `canada_per_capita
 ---
 
 ## 👨‍💻 Author
-Your Name — [GitHub Profile](https://github.com/YOUR_USERNAME)
+Navneet Nandan — [GitHub Profile](https://github.com/NavneetNandann)
 
 ---
 
